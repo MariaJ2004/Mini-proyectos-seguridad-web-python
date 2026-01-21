@@ -1,5 +1,5 @@
 # Mini-proyectos-seguridad-web-python
- Este repositorio contiene tres mini proyectos de Python, ideales para aprender conceptos de **HTTP, seguridad web y crawling**.   Cada proyecto es independiente y tiene su propia carpeta con código y README. A futuro se planea agregar más mini proyectos relacionados, ampliando las herramientas y funcionalidades disponibles.
+ Este repositorio contiene tres mini proyectos de Python, ideales para aprender conceptos de **HTTP, seguridad web y crawling**. A futuro se planea agregar más mini proyectos relacionados, ampliando las herramientas y funcionalidades disponibles.
  ## Proyectos incluidos
 
 1. **Analizador Headers**  
